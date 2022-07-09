@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-syd-opesia.github.io/sitemap.xml
